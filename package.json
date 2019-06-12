@@ -1,19 +1,22 @@
 {
-  "name": "plugin-template",
+  "name": "@imgcook/loader-style",
   "version": "0.0.1",
-  "description": "plugin template",
+  "description": "loader style",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/__test__.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imgcook-plugin/template.git"
+    "url": "git+https://github.com/imgcook-plugin/loader-style.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imgcook-plugin/template/issues"
+    "url": "https://github.com/imgcook-plugin/loader-style/issues"
   },
-  "homepage": "https://github.com/imgcook-plugin/template#readme"
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/imgcook-plugin/loader-style#readme"
 }
