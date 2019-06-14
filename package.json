@@ -1,6 +1,6 @@
 {
   "name": "@imgcook/loader-style",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "loader style",
   "main": "index.js",
   "scripts": {
