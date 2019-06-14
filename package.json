@@ -4,7 +4,7 @@
   "description": "loader style",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/__test__.js"
+    "test": "node test/__test__.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/imgcook-plugin/loader-style#readme"
+  "homepage": "https://github.com/imgcook-plugin/loader-style#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
